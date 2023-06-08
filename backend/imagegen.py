@@ -42,4 +42,4 @@ def test():
 
 test()
 
-
+# upload to ipfs: https://blog.thirdweb.com/guides/how-to-upload-and-pin-files-to-ipfs-using-storage/
